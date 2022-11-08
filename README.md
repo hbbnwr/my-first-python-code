@@ -1,2 +1,2 @@
-# my-first-python-code
-project pertama saya
+# python-code
+project pertama
